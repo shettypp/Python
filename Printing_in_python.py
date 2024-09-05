@@ -17,3 +17,9 @@ print('A "double quote" inside a single quote')
 print("Alternatively you can just \"escape\" the quote")
 
 print("hello world\nhello world\nhello wrold\n") # to print in next line
+
+#String concatination
+print("hello"+"prajna")
+print("hello "+" Prajna")
+print("hello" +" "+"prajna")
+
